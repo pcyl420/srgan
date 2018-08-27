@@ -311,4 +311,4 @@ if __name__ == '__main__':
     elif tl.global_flag['mode'] == 'evaluate':
         evaluate()
     else:
-        raise Exception("Unknow --mode")
+        raise Exception("Unknown --mode")
